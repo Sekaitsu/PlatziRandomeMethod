@@ -1,0 +1,15 @@
+C:\Users\lbernate\source\repos\Rnd\Rnd\bin\Debug\net6.0\Rnd.exe
+C:\Users\lbernate\source\repos\Rnd\Rnd\bin\Debug\net6.0\Rnd.deps.json
+C:\Users\lbernate\source\repos\Rnd\Rnd\bin\Debug\net6.0\Rnd.runtimeconfig.json
+C:\Users\lbernate\source\repos\Rnd\Rnd\bin\Debug\net6.0\Rnd.dll
+C:\Users\lbernate\source\repos\Rnd\Rnd\bin\Debug\net6.0\Rnd.pdb
+C:\Users\lbernate\source\repos\Rnd\Rnd\obj\Debug\net6.0\Rnd.csproj.AssemblyReference.cache
+C:\Users\lbernate\source\repos\Rnd\Rnd\obj\Debug\net6.0\Rnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lbernate\source\repos\Rnd\Rnd\obj\Debug\net6.0\Rnd.AssemblyInfoInputs.cache
+C:\Users\lbernate\source\repos\Rnd\Rnd\obj\Debug\net6.0\Rnd.AssemblyInfo.cs
+C:\Users\lbernate\source\repos\Rnd\Rnd\obj\Debug\net6.0\Rnd.csproj.CoreCompileInputs.cache
+C:\Users\lbernate\source\repos\Rnd\Rnd\obj\Debug\net6.0\Rnd.dll
+C:\Users\lbernate\source\repos\Rnd\Rnd\obj\Debug\net6.0\refint\Rnd.dll
+C:\Users\lbernate\source\repos\Rnd\Rnd\obj\Debug\net6.0\Rnd.pdb
+C:\Users\lbernate\source\repos\Rnd\Rnd\obj\Debug\net6.0\Rnd.genruntimeconfig.cache
+C:\Users\lbernate\source\repos\Rnd\Rnd\obj\Debug\net6.0\ref\Rnd.dll
